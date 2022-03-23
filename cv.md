@@ -1,5 +1,5 @@
 # T Nataliya
-![Alt-текст](/img/ava_small.png "Подпись")
+![Alt-текст](../img/ava_small.png "Подпись")
 ## Contacts
 #### Location: Moscow, Russia
 #### email: blueowl.n@gmail.com
