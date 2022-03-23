@@ -1,5 +1,5 @@
 # T Nataliya
-![Alt-текст](/img/ava_small.png "Подпись")
+![Ava](https://github.com/BlueOwll/rsschool-cv/blob/gh-pages/img/ava_small.png)
 ## Contacts
 #### Location: Moscow, Russia
 #### email: blueowl.n@gmail.com
