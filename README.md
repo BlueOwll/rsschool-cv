@@ -1,2 +1,2 @@
 # rsschool-cv
-test cv for stage1
+https://blueOwll.github.io/rsschool-cv/
